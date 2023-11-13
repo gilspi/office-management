@@ -5,6 +5,8 @@
 __pycache__
 db.sqlite3
 media
+../.idea/
+../desc.txt
 
 # Backup files #
 *.bak
@@ -67,6 +69,11 @@ wheels/
 *.egg
 *.manifest
 *.spec
+../.DS_Store
+.DS_Store
+
+
+
 
 # Installer logs
 pip-log.txt
