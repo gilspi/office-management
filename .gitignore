@@ -5,6 +5,7 @@
 __pycache__
 db.sqlite3
 media
+.idea/
 ../.idea/
 ../desc.txt
 office_management/offices/migrations/
@@ -135,3 +136,4 @@ Control.ca-list
 Control.ca-bundle
 Control.system-ca-bundle
 GitHub.sublime-settings
+/desc.txt
